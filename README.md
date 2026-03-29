@@ -1,8 +1,8 @@
 # CSE0001 - Digital Literacy Project Portfolio
 ## Student Information
-* **Name:** Ayushman Dash 
-* **Registration Number:** 25BAS10028 
-* **Branch:** B.Tech Aerospace Enginnering
+* **Name:** Adarsh Harikumar
+* **Registration Number:** 25BCE10705
+* **Branch:** B.Tech Computer Science
 * **Year:** First Year 
 
 ---
@@ -21,12 +21,12 @@ This project covers five key tasks ranging from Basic Knowledge,professional bra
 
 ### 2. Student Digital Portfolio (Module 2)
 * **Task:** Establishing professional profiles on industry-standard platforms.
-* **Platforms Used:** GitHub, LinkedIn, Research Gate.
+* **Platforms Used:** GitHub, LinkedIn, Kaggle.
 
 ### 3. Coding & Collaboration (Module 3)
 * **Task:** Practiced technical problem-solving and cloud-based collaboration.
 * **Coding Challenge:** HackerRank Solve me First challenge.
-* **Digital Literacy Quiz:** https://docs.google.com/forms/d/e/1FAIpQLSfNKI4NiL91TRVRAJltAZY4zIl6d3MVJB3OZB-X5eAxesU2Bw/viewform?usp=dialog.
+* **Digital Literacy Quiz:** https://docs.google.com/forms/d/e/1FAIpQLScRptZE8ZFLqadLStwMwmYyixBfvmCy4mV1ju8_gYCBiaA_1Q/viewform?usp=dialog.
 
 ### 4. Professional Communication (Module 4)
 * **Task:** Developed professional email drafting skills and social media guidelines
